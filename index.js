@@ -4,5 +4,5 @@ function shout(string) {
 }
 
 function sayHiToGrandma(){
-  return ''
+  return "I love you, Grandma."
 }
